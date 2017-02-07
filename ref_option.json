@@ -1,0 +1,126 @@
+{
+	"_id": {
+		"$oid": "5865ae8f4531377c0b00002b"
+	},
+	"nama": "sekolah_jenjang",
+	"opsi": "Tidak Sekolah,SLB,TK,SD,SMP,SMA,Universitas"
+}
+{
+	"_id": {
+		"$oid": "5865aef04531377c0b00002c"
+	},
+	"nama": "wali_status",
+	"opsi": "Menikah,Janda,TKI,Tidak diketahui,Wafat"
+}
+{
+	"_id": {
+		"$oid": "5865c029453137282c000029"
+	},
+	"nama": "lomba",
+	"opsi": "Hafalan Alquran, Hafal Hadist,MTQ, Adzan, Kaligrafi, Cerdas Cermat, Pidato"
+}
+{
+	"_id": {
+		"$oid": "5865c16c453137602e000029"
+	},
+	"nama": "domisili_yatim",
+	"opsi": "Umum,Dar khusus"
+}
+{
+	"_id": {
+		"$oid": "5865c198453137602e00002a"
+	},
+	"nama": "tempat_tinggal_keadaan",
+	"opsi": "Permanen,Semi Permanen,Kayu,Tenda"
+}
+{
+	"_id": {
+		"$oid": "5865c1a7453137602e00002b"
+	},
+	"nama": "tempat_tinggal_status",
+	"opsi": "Sewa,Dengan Keluarga,Asrama,Perumahan Dinas"
+}
+{
+	"_id": {
+		"$oid": "5865c1c74531371c1e000029"
+	},
+	"nama": "ibu_status",
+	"opsi": "Menikah,Janda,TKI,Tidak diketahui,Wafat"
+}
+{
+	"_id": {
+		"$oid": "5865c1e9453137a821000029"
+	},
+	"nama": "umur_kategori",
+	"opsi": "Masih kecil,Masa sekolah"
+}
+{
+	"_id": {
+		"$oid": "5865c1fd453137ec2f000029"
+	},
+	"nama": "anak_status_sosial_yatim",
+	"opsi": "Bekerja,Menikah,Tersantuni NGO lain,Tidak diketahui,Wafat"
+}
+{
+	"_id": {
+		"$oid": "5865c20e453137602e00002c"
+	},
+	"nama": "anak_kesehatan",
+	"opsi": "Sehat,Sakit"
+}
+{
+	"_id": {
+		"$oid": "5865c23d453137602e00002d"
+	},
+	"nama": "lembaga_donor",
+	"opsi": "RAF,EID,Bahrain,saudi"
+}
+{
+	"_id": {
+		"$oid": "5865c252453137c032000029"
+	},
+	"nama": "status",
+	"opsi": "pengajuan,pendaftaran,angkat,approve,putus"
+}
+{
+	"_id": {
+		"$oid": "5865ce12453137ec2f00002a"
+	},
+	"nama": "lain_lain",
+	"opsi": "Peserta pelatihan yang diadakan oleh yayasan,Pesantren Kilat,Imam shalat 5 waktu,Khotib Jumat/Hari raya"
+}
+{
+	"_id": {
+		"$oid": "5865d9b7453137602e00002e"
+	},
+	"nama": "filter_field_induk",
+	"opsi": "no_approve,no_pendaftaran,no_angkat,anak_nama,anak_nama_arab,foto"
+}
+{
+	"_id": {
+		"$oid": "58672e8c453137602e00002f"
+	},
+	"nama": "edit_tipe_data_select",
+	"opsi": "status,lembaga_donor,sekolah_jenjang,wali_status,lomba,domisili_yatim, tempat_tinggal_keadaan,tempat_tinggal_status,ibu_status,umur_kategori,anak_status_sosial_yatim,anak_kesehatan,lembaga_donor,lain_lain"
+}
+{
+	"_id": {
+		"$oid": "58674959453137a82100002b"
+	},
+	"nama": "edit_tipe_data_date",
+	"opsi": "tgl_pengajuan,tgl_daftar,tgl_angkat,tgl_approve,tgl_putus,tgl_update"
+}
+{
+	"_id": {
+		"$oid": "586856d3453137b81600002e"
+	},
+	"nama": "sekolah_jenjang_arab",
+	"opsi": "Tidak Sekolah,SLB,TK,SD,SMP,SMA,Universitas"
+}
+{
+	"_id": {
+		"$oid": "5869b9c0453137c018000029"
+	},
+	"nama": "musrif_nama",
+	"opsi": "Hajir,Hajar,Rahman,Bani,Saiful,Gani,Hafidz"
+}

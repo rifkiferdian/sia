@@ -1,0 +1,14 @@
+{
+	"_id": {
+		"$oid": "5865ae454531377c0b000029"
+	},
+	"nama": "sekolah_jenjang",
+	"opsi": "tidak sekolah,tk,sd,smp,sma,universitas"
+}
+{
+	"_id": {
+		"$oid": "5865ae724531377c0b00002a"
+	},
+	"nama": "sekolah_jenjang",
+	"opsi": "tidak sekolah,tk,sd,smp,sma,universitas"
+}
